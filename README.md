@@ -40,7 +40,7 @@ Junit과 AssertJ를 활용해서 단위 테스트를 작성하는 방법과 TDD�
 |------|---|---|
 |자동차 경주|[java-racingcar](https://github.com/Libienz/java-racingcar/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-racingcar/pull/677) <br> [2단계 PR](https://github.com/woowacourse/java-racingcar/pull/749)|
 |사다리 게임|[java-ladder](https://github.com/Libienz/java-ladder/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-ladder/pull/273) <br> [2단계 PR](https://github.com/woowacourse/java-ladder/pull/348)|
-|블랙잭|[java-blackjack](https://github.com/Libienz/java-blackjack/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/634) <br> [2단계 PR](https://github.com/woowacourse/java-blackjack/pull/761)|
+|블랙잭|[java-blackjack](https://github.com/Libienz/java-blackjack/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/634) <br> [2단계 PR](https://github.com/woowacourse/java-blackjack/pull/709)|
 |체스|[java-chess](https://github.com/Libienz/java-chess/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-chess/pull/663) <br> [2단계 PR](https://github.com/woowacourse/java-chess/pull/761)|
 
 ### 📝 기록 및 회고
