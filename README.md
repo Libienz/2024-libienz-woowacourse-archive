@@ -90,14 +90,14 @@ Junit과 AssertJ를 활용해서 단위 테스트를 작성하는 방법과 TDD�
 <br>
 
 ## 4️⃣ 레벨 4 - 프레임워크 라이브러리 깊게 이해하기 (2024.09.03 ~ 2024.11.01)
-프레임워크와 라이브러리를 직접 코드로 구현해보며 기술의 상세를 탐구하는 단계입니다.
-Tomcat, Spring MVC 그리고 Jdbc를 직접 자바 구현해보며 인터페이스 너머의 기술 상세를 탐구했습니다.
-DB 복제와 캐시 등 서비스 고가용성을 위한 기술을 학습하고 복제 지연 캐시 정책등 수반되어야 하는 고려지점을 탐구했습니다.
+프레임워크와 라이브러리를 직접 코드로 구현해보며 기술의 상세를 탐구하는 단계입니다.  
+Tomcat, Spring MVC 그리고 Jdbc를 직접 자바 구현해보며 인터페이스 너머의 기술 상세를 탐구했습니다.  
+DB 복제와 캐시 등 서비스 고가용성을 위한 기술을 학습하고 복제 지연문제와 캐시 정책 등 수반되어야 하는 고려지점을 탐구했습니다.  
 
 |Project|Repository|PR|
 |------|---|---|
 |톰캣 구현하기|[java-http](https://github.com/Libienz/java-http/tree/step4)|[1단계 PR](https://github.com/woowacourse/java-http/pull/522) <br> [2단계 PR](https://github.com/woowacourse/java-http/pull/636) <br> [3단계 PR](https://github.com/woowacourse/java-http/pull/740)|
-|MVC 구현하기|[java-mvc](https://github.com/Libienz/java-mvc/tree/step3)|[1단계 PR](https://github.com/woowacourse/java-mvc/pull/672) <br> [2단계 PR](https://github.com/woowacourse/java-mvc/pull/779) <br> [3단계 PR](https://github.com/woowacourse/java-mvc/pull/853)|
+|MVC 구현하기|[java-mvc](https://github.com/Libienz/java-mvc/tree/step3)|[1단계 PR](https://github.com/woowacourse/java-mvc/pull/672) <br> [2단계 PR](https://github.com/woowacourse/java-mvc/pull/779) <br> [3단계 PR](https://github.com/woowacourse/java-mvc/pull/853)|
 |JDBC 라이브러리 구현하기|[java-jdbc](https://github.com/Libienz/java-jdbc/tree/step4)|[1단계 PR](https://github.com/woowacourse/java-jdbc/pull/637) <br> [2단계 PR](https://github.com/woowacourse/java-jdbc/pull/735) <br> [3단계 PR](https://github.com/woowacourse/java-jdbc/pull/800) <br> [4단계 PR](https://github.com/woowacourse/java-jdbc/pull/902)|
 |DB 복제와 캐시|[java-coupon](https://github.com/Libienz/java-coupon/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-coupon/pull/51) <br> [2단계 PR](https://github.com/woowacourse/java-coupon/pull/127)|
 
