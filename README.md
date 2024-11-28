@@ -6,15 +6,16 @@
 - 모든 미션은 최소 단위의 협업인 `페어 프로그래밍`으로 진행되었습니다.
 - 우아한테크코스 과정은 동료 피드백, 리뷰어 피드백 등의 피드백 루프를 제공하며 교육생들에게 함께 자라기를 강조합니다.
 
-<!-- 
+
 <br>
 
 ## 💬 테코톡
 
-[![Video Label](http://img.youtube.com/vi/VsYw2GWgZV0/0.jpg)](https://youtu.be/VsYw2GWgZV0)
+[![Video Label](https://i.ytimg.com/vi/7DwxuWyCNHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQXsWM030elYPsiFNjcExi7bZnIA)](https://www.youtube.com/watch?v=7DwxuWyCNHA&t=47s)
 
-<br><br>
--->
+<br>
+
+
 
 ## 🧤 프리코스 (2023.10.19 ~ 2023.12.27)
 요구사항을 자바 코드로 옮겨내는 훈련과 함께 자바와 객체지향의 기본을 학습했습니다.  
