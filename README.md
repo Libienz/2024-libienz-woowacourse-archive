@@ -43,7 +43,7 @@
 - TDD를 통해 구현에 대한 피드백 루프를 활성화 시키는 연습 진행
 
 
-### 🔥 미션 주요 학습 내용
+### 🔥 깊게 학습한 내용
 - [🔗 도메인의 책임 범위에 대해 크루들과 함께 고민하고 리뷰어와 이야기](https://github.com/woowacourse/java-blackjack/pull/709#issuecomment-2002389105)
 - [🔗 복잡한 생성로직을 추상화하는 방법에 대해 리뷰어와 토론](https://github.com/woowacourse/java-ladder/pull/273#discussion_r1499479161)
 
@@ -71,7 +71,7 @@
 - 스프링 기술을 활용해 유지보수하기 쉬운 웹 애플리케이션을 만들기 위한 탐구  
 - 하나의 방탈출 예약 프로젝트 미션을 발전하는 요구사항에 맞추어 점진적으로 개선
 
-### 🔥 미션 주요 학습 내용
+### 🔥 깊게 학습한 내용
 - [🔗 DTO 침투 레이어, DTO ↔ 엔티티 매핑 로직의 위치, 레이어드 아키텍처에 대해 고민하고 리뷰어와 이야기](https://github.com/woowacourse/spring-roomescape-admin/pull/21#issuecomment-2067256014)
 - [🔗 검증 로직의 위치, 슬라이스 테스트의 의의, 예외처리에 대해 고민](https://github.com/woowacourse/spring-roomescape-member/pull/52#issuecomment-2094866972)
 - [🔗 성능 측정을 통한 쿼리 설계 주의점 탐구](https://github.com/woowacourse/spring-roomescape-waiting/pull/111#discussion_r1611290248)
@@ -114,7 +114,7 @@
 Tomcat, Spring MVC 그리고 Jdbc를 직접 자바 구현해보며 인터페이스 너머의 기술 상세를 탐구했습니다.  
 DB 복제와 캐시 등 서비스 고가용성을 위한 기술을 학습하고 복제 지연문제와 캐시 정책 등 수반되어야 하는 고려지점을 탐구했습니다.  
 
-### 🔥 미션 주요 학습 내용
+### 🔥 깊게 학습한 내용
 - [🔗 서블릿 매핑 정보를 컨테이너에 넘기는 방식에 대한 탐구](https://github.com/woowacourse/java-http/pull/740#discussion_r1763195814)
 - [🔗 Spring MVC에서 핸들러를 다루기 위해 왜 Adapter 패턴을 사용했는지 탐구](https://github.com/woowacourse/java-mvc/pull/779#discussion_r1779505748)
 
