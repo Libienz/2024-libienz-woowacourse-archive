@@ -74,7 +74,7 @@
 
 ### 🔥 깊게 학습한 내용
 - [🔗 Spring MVC 구조에서 레이어드 아키텍처와 DTO 침투 레이어 탐구](https://velog.io/@libienz/DTO-%EC%B9%A8%ED%88%AC-%EB%A0%88%EC%9D%B4%EC%96%B4)
-- [🔗 단위 테스트 작성 - 런던파 vs 고전파](https://velog.io/@libienz/%EB%82%B4%EA%B0%80-%EB%9F%B0%EB%8D%98%ED%8C%8CMockist%EC%97%90%EC%84%9C-%EA%B3%A0%EC%A0%84%ED%8C%8CDetroit%EB%A1%9C-%EB%B0%94%EB%80%90-%EC%9D%B4%EC%9C%A0
+- [🔗 단위 테스트 작성 - 런던파 vs 고전파](https://velog.io/@libienz/%EB%82%B4%EA%B0%80-%EB%9F%B0%EB%8D%98%ED%8C%8CMockist%EC%97%90%EC%84%9C-%EA%B3%A0%EC%A0%84%ED%8C%8CDetroit%EB%A1%9C-%EB%B0%94%EB%80%90-%EC%9D%B4%EC%9C%A0)
 
 ### 🔍 미션 더 살펴보기
 |Project|Repository|PR|
