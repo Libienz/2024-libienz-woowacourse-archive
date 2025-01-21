@@ -103,6 +103,23 @@
 
 <br>
 
+
+### 🔥 프로젝트 핵심 기여 내용
+- [🔗 Testcontainers 도입](https://velog.io/@libienz/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Testcontainers-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0)
+- [🔗 연관관계 기준 수립 및 연관관계 기반 영속 상태 전이를 통한 서비스 로직 추상화](https://velog.io/@libienz/%EC%96%91%EB%B0%A9%ED%96%A5)
+- [🔗 페이징 응답 Caching을 위한 Redis 도입](https://velog.io/@libienz/%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%9D%91%EB%8B%B5-Caching%EC%9D%84-%EC%9C%84%ED%95%9C-Redis-%EB%8F%84%EC%9E%85%EA%B8%B0)
+- [🔗 Fetch Join을 통한 N+1 문제 해결](https://velog.io/@libienz/JPA-N1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0)
+- [🔗 Batch Fetching을 통한 N+1 문제 해결](https://velog.io/@libienz/Hibernate-Batch-Fetching%EC%9D%B4-IN%EC%A0%88%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
+- [🔗 데이터베이스 스키마 변경을 통한 동시성 문제 해결](https://velog.io/@libienz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%82%A4%EB%A7%88-%EB%B3%80%EA%B2%BD%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+- [🔗 Database 반정규화를 통한 Paging 처리 API 성능 659배 개선](https://velog.io/@libienz/Database-%EC%8A%A4%ED%82%A4%EB%A7%88-%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94%EB%A5%BC-%ED%86%B5%ED%95%9C-Paging-%EC%B2%98%EB%A6%AC-API-%EC%84%B1%EB%8A%A5-659%EB%B0%B0-%EA%B0%9C%EC%84%A0)
+- [🔗 Flyway 도입을 통한 DB 형상관리 지점 일원화](https://velog.io/@libienz/Flyway-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%86%B5%ED%95%9C-DB-%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC-%EC%A7%80%EC%A0%90-%EC%9D%BC%EC%9B%90%ED%99%94)
+
+
+
+
+- [🔗 단위 테스트 작성 - 런던파 vs 고전파](https://velog.io/@libienz/%EB%82%B4%EA%B0%80-%EB%9F%B0%EB%8D%98%ED%8C%8CMockist%EC%97%90%EC%84%9C-%EA%B3%A0%EC%A0%84%ED%8C%8CDetroit%EB%A1%9C-%EB%B0%94%EB%80%90-%EC%9D%B4%EC%9C%A0)
+
+
 ### 회고
 - [우테코 레벨3 회고](https://velog.io/@libienz/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-BE-%EB%A6%AC%EB%B9%84%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EB%A0%88%EB%B2%A8-3%EB%A5%BC-%EB%B3%B4%EB%82%B4%EB%A9%B4%EC%84%9C)
 
