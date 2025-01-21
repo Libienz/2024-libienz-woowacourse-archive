@@ -44,8 +44,9 @@
 
 
 ### 🔥 깊게 학습한 내용
-- [🔗 도메인의 책임 범위에 대해 크루들과 함께 고민하고 리뷰어와 이야기](https://github.com/woowacourse/java-blackjack/pull/709#issuecomment-2002389105)
-- [🔗 복잡한 생성로직을 추상화하는 방법에 대해 리뷰어와 토론](https://github.com/woowacourse/java-ladder/pull/273#discussion_r1499479161)
+- [🔗 정적 팩토리 메서드 vs 팩토리 클래스](https://velog.io/@libienz/Java-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C-vs-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [🔗 자바 객체를 설계하는 요령 - 책임주도설계](https://velog.io/@libienz/%EC%9E%90%EB%B0%94-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EC%9A%94%EB%A0%B9-%EC%B1%85%EC%9E%84%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84)
+- [🔗 객체의 자율성에 대한 고민 일지](https://velog.io/@libienz/%EA%B0%9D%EC%B2%B4%EC%9D%98-%EC%9E%90%EC%9C%A8%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC%EC%9D%BC%EC%A7%80-feat-%EB%A6%AC%EB%B9%84%EC%9D%98-%EC%B2%AD%EC%86%8C%EA%B8%B0%EB%A1%A0)
 
 ### 🔍 미션 더 살펴보기
 |Project|Repository|PR|
@@ -72,10 +73,8 @@
 - 하나의 방탈출 예약 프로젝트 미션을 발전하는 요구사항에 맞추어 점진적으로 개선
 
 ### 🔥 깊게 학습한 내용
-- [🔗 DTO 침투 레이어, DTO ↔ 엔티티 매핑 로직의 위치, 레이어드 아키텍처에 대해 고민하고 리뷰어와 이야기](https://github.com/woowacourse/spring-roomescape-admin/pull/21#issuecomment-2067256014)
-- [🔗 검증 로직의 위치, 슬라이스 테스트의 의의, 예외처리에 대해 고민](https://github.com/woowacourse/spring-roomescape-member/pull/52#issuecomment-2094866972)
-- [🔗 성능 측정을 통한 쿼리 설계 주의점 탐구](https://github.com/woowacourse/spring-roomescape-waiting/pull/111#discussion_r1611290248)
-- [🔗 외부 API 예외 처리에 대해 탐구](https://github.com/woowacourse/spring-roomescape-payment/pull/17#discussion_r1621767747)
+- [🔗 Spring MVC 구조에서 레이어드 아키텍처와 DTO 침투 레이어 탐구](https://velog.io/@libienz/DTO-%EC%B9%A8%ED%88%AC-%EB%A0%88%EC%9D%B4%EC%96%B4)
+- [🔗 단위 테스트 작성 - 런던파 vs 고전파](https://velog.io/@libienz/%EB%82%B4%EA%B0%80-%EB%9F%B0%EB%8D%98%ED%8C%8CMockist%EC%97%90%EC%84%9C-%EA%B3%A0%EC%A0%84%ED%8C%8CDetroit%EB%A1%9C-%EB%B0%94%EB%80%90-%EC%9D%B4%EC%9C%A0
 
 ### 🔍 미션 더 살펴보기
 |Project|Repository|PR|
@@ -115,8 +114,8 @@
 - DB 복제와 캐시 등 서비스 고가용성을 위한 기술을 학습, 복제 지연문제와 캐시 정책 등 수반되어야 하는 고려지점을 탐구
 
 ### 🔥 깊게 학습한 내용
-- [🔗 서블릿 매핑 정보를 컨테이너에 넘기는 방식에 대한 탐구](https://github.com/woowacourse/java-http/pull/740#discussion_r1763195814)
-- [🔗 Spring MVC에서 핸들러를 다루기 위해 왜 Adapter 패턴을 사용했는지 탐구](https://github.com/woowacourse/java-mvc/pull/779#discussion_r1779505748)
+- [🔗 서블릿 매핑 정보를 컨테이너에 넘기는 방식에 대한 탐구](https://velog.io/@libienz/%ED%86%B0%EC%BA%A3Tomcat%EC%9D%98-%EC%84%9C%EB%B8%94%EB%A6%BF-%EB%A7%A4%ED%95%91-%EC%A0%95%EB%B3%B4-%EC%8A%B5%EB%93%9D-%EB%B0%A9%EC%8B%9D-%ED%83%90%EA%B5%AC)
+- [🔗 Spring MVC에서 핸들러를 다루기 위해 왜 Adapter 패턴을 사용했는지 탐구](https://velog.io/@libienz/Spring-MVC%EC%97%90%EC%84%9C-Handler-Adapter%EB%8A%94-%EC%99%9C-%EB%93%B1%EC%9E%A5%ED%96%88%EC%9D%84%EA%B9%8C)
 
 
 ### 🔍 미션 더 살펴보기
